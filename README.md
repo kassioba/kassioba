@@ -2,7 +2,7 @@
 ### Oiii :)   
 ### Bem-vindo ao meu perfil!
 
-Meu nome é Kássio Luna, sou desenvolvedor Full Stack formado pela Driven Education. Ao longo a minha formação, construí conhecimentos em várias tecnologias diferentes dentro das áreas de front-end, back-end e infraestrutura. O aprendizado foi acompanhados de projetos semanais, exercitando a implementação das tecnologias e a resolução de problemas. Também desenvolvi e exercitei habilidades comunicacionas e de fluxo de trabalho com métodologias ágeis (Scrum e Kanban).
+Meu nome é Kássio Luna, sou desenvolvedor Full Stack formado pela Driven Education. Ao longo da formação, construí conhecimentos em várias tecnologias diferentes dentro das áreas de front-end, back-end e infraestrutura. O aprendizado foi acompanhados de projetos semanais, exercitando a implementação das tecnologias e a resolução de problemas. Também desenvolvi e exercitei habilidades comunicacionas e de fluxo de trabalho com métodologias ágeis (Scrum e Kanban). Atualmente, estudo Java e Spring Boot.
 
 Antes de me encontrar no mundo de desenvolvimento, estudei filosofia pela Universidade Federal de Pernambuco (UFPE), o que me proporcionou participar do Programa Institucional de Bolsas de Iniciação à Docência (PIBID), onde desenvolvi habilidades de liderança, resolução de conflitos e comunicação, além de aprimorar consideravelmente minha didática.
 <h3 align='center'>
